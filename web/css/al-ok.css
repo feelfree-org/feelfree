@@ -1,0 +1,25 @@
+.al-ok{
+background: #2DC2BC;
+color: #FFF;
+font-size: 18px;
+font-weight: 400;
+padding: 6px 0px;
+width: 20%;
+cursor: pointer;
+outline: none;
+margin: 15px 0px 5px 0px;
+border: none;
+border-radius: 5px;}
+
+.al-ok:hover{
+	background:rgb(160, 6, 6);
+	transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+/* hide powered by */
+
+#poweredby{
+	display: none !important;
+}
